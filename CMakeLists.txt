@@ -23,6 +23,7 @@ TRACE_TEST(rotations 68 103311)
 TRACE_TEST(shadowmaps 560 42910)
 TRACE_TEST(fbo-render 3 20278)
 TRACE_TEST(fbo-render 50 176281)
+TRACE_TEST(vertex_arrays 30 297838)
 #Disable for now
 #TRACE_TEST(sauerbraten 913 1061896)
 
